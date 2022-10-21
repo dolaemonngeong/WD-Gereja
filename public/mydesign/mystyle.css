@@ -8,3 +8,16 @@ nav{
     color: #603B1B;
 }
 
+.jadwalTable{
+    padding-inline: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.bgTable{
+    background-color: #7D4B22;
+}
+
+.cColumn{
+    color:white;
+}
