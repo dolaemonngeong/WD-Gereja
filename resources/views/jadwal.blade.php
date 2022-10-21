@@ -3,7 +3,8 @@
 @section('title', 'Jadwal')
 
 @section('isi')
-<h1>Jadwal Misa Harian</h1>
+<div class="m-4">
+    <h1>Jadwal Misa Harian</h1>
     <table class="table">
         <thead class="table-dark">
             <tr>
@@ -72,4 +73,6 @@
             </tr>
         </tbody>
     </table>
+</div>
+
     @endsection

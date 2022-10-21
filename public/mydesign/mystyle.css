@@ -1,3 +1,10 @@
 body,html{
     scroll-behavior: smooth;
+    color: #603B1B;
+    background: #F6F3C4;
 }
+
+nav{
+    color: #603B1B;
+}
+
