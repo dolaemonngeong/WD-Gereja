@@ -1,9 +1,9 @@
 <section class="footer-section" id="footer">
     <div class="container">
     </div>
-    <div class="container text-center">
+    <div class="container mt-4">
         <div class="row">
-            <div class="col">
+            <div class="col order-1">
                 <div class="row">
                     <div class="col">
                         <img src="images/logo.png" alt="" class="" height="189.18">
@@ -16,30 +16,35 @@
                 <p>styusupjember@gmail.com</p>
                 <p>Santo Yusup</p>
             </div>
-            <div class="col order-5">
-                Rekening Kolekte :
+            <div class="col order-1">
+                <strong> Rekening Kolekte :</strong>
+                <br>
                 BCA Jember.
                 BPGDA RK Gereja Santo Yosef
                 A/C : 024 852 1000
-
-                Rekening Sumbangan untuk Paroki :
+                <br>
+                <strong>Rekening Sumbangan untuk Paroki :</strong>
+                <br>
                 Bank Mandiri Jember.
                 BPGDA Roma Katolik Gereja Santo Yosep
                 A/C : 143 00 04724 934
             </div>
             <div class="col order-1">
-                Rekening Pembangunan :
+                <strong> Rekening Pembangunan :</strong>
+                <br>
                 Bank Mandiri Jember
                 143 00 0559199 3
-
-
-                Rekening Pastoran untuk Intensi Misa :
+                <br>
+                <strong> Rekening Pastoran untuk Intensi Misa :</strong>
+                <br>
                 Bank CIMB Niaga Jember
                 Herman Yoseph Suyatna, Yohanes Suparno
                 A/C : 7033 6368 5000
             </div>
         </div>
+        <h6 class="text-center mb-4">Jl. R.A. Kartini No.26, Tembaan, Kepatihan, Kec. Kaliwates, Kabupaten Jember, Jawa Timur 68131</h6>
     </div>
-    <div class="p-3 bg-dark text-white text-center">© 2022. Gereja Katolik Paroki Santo Yusup Jember. All Right
+    <div class="p-3 text-center" style="background-color: #603B1B;  color: #F6F3C4;">© 2022. Gereja Katolik Paroki Santo
+        Yusup Jember. All Right
         Reserved.</div>
 </section>
