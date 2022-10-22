@@ -21,13 +21,23 @@
 
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid mx-4">
-                <a class="navbar-brand" href="/" style="color: #603B1B">
-                    <img src="images/logo.png" alt="" height="70">
+                
+                  <ul class="navbar-nav ">
+                    <a class="navbar-brand" href="/" style="color: #603B1B">
+                        <img src="images/logo.png" alt="" height="70">
+                       
+                      </a>
+                    <li class="nav-item">
+                  <a class="nav-link" href="/" style="color: #603B1B">
                     Gereja Katolik
+                    <br>
                     Santo Yusup
+                    <br>
                     Jember
                   </a>
-                 
+                </li>
+                    
+            </ul>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon">

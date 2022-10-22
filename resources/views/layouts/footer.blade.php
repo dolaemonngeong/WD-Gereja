@@ -12,9 +12,11 @@
                         <h2>Gereja Katolik Santo Yusup Jember</h2>
                     </div>
                 </div>
-                <p>( 0331 ) 486 478</p>
-                <p>styusupjember@gmail.com</p>
-                <p>Santo Yusup</p>
+                <img src="images/phone.png" height="20" alt="">  ( 0331 ) 486 478
+                <br>
+                <img src="images/mail.png" height="20" alt="">  styusupjember@gmail.com
+                <br>
+                <img src="images/youtube.png" height="20" alt="">  Santo Yusup
             </div>
             <div class="col order-1">
                 <strong> Rekening Kolekte :</strong>

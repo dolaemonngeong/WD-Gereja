@@ -4,7 +4,7 @@
 
 @section('isi')
 
-    <div id="tentang" class="carousel slide" data-ride="carousel">
+    <div class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img class="d-block w-100" src="images/bg.jpeg">
@@ -12,6 +12,10 @@
         </div>
     </div>
     <div class="text-center">
+        <h1 class="mt-4" id="tentang">Tentang</h1>
+        <p>
+            Gereja Katolik St. Yusup Jember adalah Gereja Katolik yang memiliki 3.600 umat, 38 lingkungan, dan 14 wilayah dengan 1 stasi.
+        </p>
         <h1 class="mt-4">Visi</h1>
         <p>TERWUJUDNYA KOMUNITAS UMAT BERIMAN YANG TERBUKA DAN TERLIBAT DI TENGAH MASYARAKAT YANG BERANEKA RAGAM SUKU,
             SOSIAL EKONOMI, BUDAYA DAN AGAMA.
@@ -20,7 +24,7 @@
         <p>MEWUJUDKAN PANCA TUGAS GEREJA DALAM KELUARGA, LINGKUNGAN/ WILAYAH/ STASI, KATEGORIAL, SEKOLAH DAN MASYARAKAT.</p>
         <h1>Pastor Kami</h1>
         <div class="container">
-            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 d-flex justify-content-center">
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 d-flex justify-content-center">
                 <div class="col">
                  <img src="images/1.jpeg" class="d-block w-100 rounded-circle" alt="">
                  <p class="mt-4">Rm. Yoseph Utus, O.Carm</p>
