@@ -1,7 +1,7 @@
 <section class="footer-section" id="footer">
+
     <div class="container">
-    </div>
-    <div class="container mt-4">
+        <br>
         <div class="row">
             <div class="col order-1">
                 <div class="row">

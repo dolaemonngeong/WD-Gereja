@@ -4,7 +4,8 @@
 
 @section('isi')
 {{-- <div class="m-4"> --}}
-<div class="bg-light">
+<div>
+    <br>
     <h1 class="susunanDPH text-center" style="">Susunan Pengurus Dewan Pastoral Harian ( DPH ) Paroki Santo Yusup
         Jember</h1>
     <div class="d-flex justify-content-center">

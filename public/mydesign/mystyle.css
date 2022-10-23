@@ -1,11 +1,12 @@
 body,html{
     scroll-behavior: smooth;
-    color: #603B1B;
-    background: #F6F3C4;
+    /* color: #603B1B;
+    background: #F6F3C4; */
 }
 
-nav{
+nav,#footer{
     color: #603B1B;
+    background: #F6F3C4;
 }
 
 .tes {
@@ -52,7 +53,7 @@ nav{
     padding-bottom: 3px;
 }
 .bg-light{
-    padding-top: 60px;
+    /* padding-top: 60px; */
 }
 .susunanDPH{
     padding-left:30%; 
