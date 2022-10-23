@@ -53,7 +53,7 @@
                             <a class="nav-link active" aria-current="page" href="/" style="color: #603B1B">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#tentang" style="color: #603B1B">Tentang</a>
+                            <a class="nav-link" href="/#tentang" style="color: #603B1B">Tentang</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/dph" style="color: #603B1B">DPH</a>
@@ -62,7 +62,7 @@
                             <a class="nav-link" href="/jadwal" style="color: #603B1B">Jadwal</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#location" style="color: #603B1B">Lokasi</a>
+                            <a class="nav-link" href="/#location" style="color: #603B1B">Lokasi</a>
                         </li>
                         <li class="nav-item"> 
                             <a class="nav-link" href="#footer" style="color: #603B1B">Kontak</a>

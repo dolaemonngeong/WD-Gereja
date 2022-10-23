@@ -8,16 +8,84 @@ nav{
     color: #603B1B;
 }
 
+.tes {
+    position: relative;
+    text-align: center;
+}
+
+.center {
+    position: absolute;
+    margin-top: -30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+
+.imgJumbotron {
+    width: 100%;
+    height: auto;
+    /* opacity: 0.5; */
+    filter: opacity(50%);
+}
+
 .jadwalTable{
-    padding-inline: 100px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.tiapTable{
+    padding-top: 40px;
 }
 
 .bgTable{
     background-color: #7D4B22;
 }
 
-.cColumn{
-    color:white;
+.jam{
+    color: white;
+}
+.kantorTable{
+    margin-bottom: 120px;
+}
+
+.tabelBawah{
+    padding-bottom: 3px;
+}
+.bg-light{
+    padding-top: 60px;
+}
+.susunanDPH{
+    padding-left:30%; 
+    padding-right:30%;
+    padding-bottom: 60px;
+}
+.strukturDPH{
+    padding-bottom: 40px;
+}
+
+@media screen and (max-width: 800px) {
+    .jadwalTable{
+        padding-top: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: small;
+    }
+    .jam{
+        width:25%;
+    }
+    .jadwalKantor{
+        margin-inline-start: 20%;
+        margin-right: 20%; 
+    }
+    .tabelBawah{
+        padding-bottom:0.5%;
+    }
+    .strukturDPH{
+        width:300px;
+    }
+    .susunanDPH{
+        padding-left:10%; 
+        padding-right:10%;
+        padding-bottom:30px;
+    }
 }

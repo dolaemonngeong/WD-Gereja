@@ -25,6 +25,7 @@
                 BPGDA RK Gereja Santo Yosef
                 A/C : 024 852 1000
                 <br>
+                <br>
                 <strong>Rekening Sumbangan untuk Paroki :</strong>
                 <br>
                 Bank Mandiri Jember.
@@ -36,6 +37,8 @@
                 <br>
                 Bank Mandiri Jember
                 143 00 0559199 3
+                <br>
+                <br>
                 <br>
                 <strong> Rekening Pastoran untuk Intensi Misa :</strong>
                 <br>

@@ -1,12 +1,15 @@
 @extends('layouts.header')
 
-@section('title', 'Jadwal')
+@section('title', 'DPH')
 
 @section('isi')
-<div class="m-4">
-    ini foto bagannya saja 
+{{-- <div class="m-4"> --}}
+<div class="bg-light">
+    <h1 class="susunanDPH text-center" style="">Susunan Pengurus Dewan Pastoral Harian ( DPH ) Paroki Santo Yusup
+        Jember</h1>
+    <div class="d-flex justify-content-center">
+        <img src="images/dph.png" class="strukturDPH img-fluid mx-auto" width="1100">
+    </div>
 </div>
-
-
-
-    @endsection
+{{-- </div> --}}
+@endsection
