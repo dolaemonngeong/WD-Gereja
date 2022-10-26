@@ -1,5 +1,6 @@
 body,html{
     scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
     /* color: #603B1B;
     background: #F6F3C4; */
 }
@@ -28,6 +29,17 @@ nav,#footer{
     /* opacity: 0.5; */
     filter: opacity(50%);
 }
+
+.visiMisi{
+    margin-left:90px;
+    font-size: 130%;
+    margin-right:90px;
+}
+
+/* .kolomFoto{
+    padding-left: 200px;
+    /* padding-right: 100px; 
+} */
 
 .jadwalTable{
     margin-left: 250px;
@@ -65,6 +77,11 @@ nav,#footer{
 }
 
 @media screen and (max-width: 800px) {
+    .kolomFoto{
+        padding-left:0px;
+        padding-left:0px;
+    }
+
     .jadwalTable{
         padding-top: 5px;
         margin-left: 10px;
@@ -88,5 +105,8 @@ nav,#footer{
         padding-left:10%; 
         padding-right:10%;
         padding-bottom:30px;
+    }
+    #footer{
+        font-size: 65%;
     }
 }

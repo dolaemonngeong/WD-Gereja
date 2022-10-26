@@ -15,28 +15,32 @@
     <title>@yield('title')</title>
     <link rel="icon" href="images/logo.png" type="image/ico">
     <link rel="stylesheet" type="text/css" href="mydesign/mystyle.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
+    </style>
 </head>
 
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid mx-4">
-                
-                  <ul class="navbar-nav ">
-                    <a class="navbar-brand" href="/" style="color: #603B1B">
-                        <img src="images/logo.png" alt="" height="70">
-                       
-                      </a>
-                    <li class="nav-item">
-                  <a class="nav-link" href="/" style="color: #603B1B">
-                    Gereja Katolik
-                    <br>
-                    Santo Yusup
-                    <br>
-                    Jember
-                  </a>
+
+            <ul class="navbar-nav ">
+                <a class="navbar-brand" href="/" style="color: #603B1B">
+                    <img src="images/logo.png" alt="" height="70">
+
+                </a>
+                <li class="nav-item">
+                    <a class="nav-link" href="/" style="color: #603B1B">
+                        Gereja Katolik
+                        <br>
+                        Santo Yusup
+                        <br>
+                        Jember
+                    </a>
                 </li>
-                    
+
             </ul>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,11 +48,11 @@
                 </span>
             </button>
             {{-- d-flex justify-content-end --}}
-         <div class="justify-content-end"> 
+            <div class="justify-content-end">
                 <div class="collapse navbar-collapse " id="navbarNav">
-                       
+
                     <ul class="navbar-nav ">
-                         
+
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="/" style="color: #603B1B">Home</a>
                         </li>
@@ -64,12 +68,12 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/#location" style="color: #603B1B">Lokasi</a>
                         </li>
-                        <li class="nav-item"> 
+                        <li class="nav-item">
                             <a class="nav-link" href="#footer" style="color: #603B1B">Kontak</a>
                         </li>
-                    
+
                     </ul>
-               </div>
+                </div>
             </div>
         </div>
     </nav>

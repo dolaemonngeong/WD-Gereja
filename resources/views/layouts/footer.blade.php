@@ -1,24 +1,29 @@
 <section class="footer-section" id="footer">
 
-    <div class="container">
+    <div class="container" style="padding-block:50px; font-size: 130%;">
         <br>
         <div class="row">
-            <div class="col order-1">
+            <div class="col-sm-5">
                 <div class="row">
-                    <div class="col">
-                        <img src="images/logo.png" alt="" class="" height="189.18">
-                    </div>
-                    <div class="col">
-                        <h2>Gereja Katolik Santo Yusup Jember</h2>
+
+                    <div class="col-4"> <img src="images/logo.png" alt="" class="" height="159.18"
+                            style="margin-right:0px;"></div>
+                    <div class="col-8">
+                        <h2 style="color:#7D4B22; padding-top:35px;  "><strong>
+                                Gereja Katolik Santo Yusup Jember</strong></h2>
                     </div>
                 </div>
-                <img src="images/phone.png" height="20" alt="">  ( 0331 ) 486 478
-                <br>
-                <img src="images/mail.png" height="20" alt="">  styusupjember@gmail.com
-                <br>
-                <img src="images/youtube.png" height="20" alt="">  Santo Yusup
+                {{-- <br> --}}
+                <p class="mt-4"><img src="images/phone.png" height="20" alt=""> ( 0331 ) 486 478</p>
+                {{-- <br> --}}
+                <p class="mt-4"><img src="images/mail.png" height="20" alt=""> styusupjember@gmail.com</p>
+                {{-- <br> --}}
+                <p class="mt-4"><img src="images/youtube.png" height="20" alt=""> Santo Yusup</p>
             </div>
-            <div class="col order-1">
+            {{-- <div class="col-sm"></div>
+            <div class="col-sm"></div>
+            <div class="col-sm"></div> --}}
+            <div class="col-sm" style="margin-top:30px">
                 <strong> Rekening Kolekte :</strong>
                 <br>
                 BCA Jember.
@@ -32,7 +37,7 @@
                 BPGDA Roma Katolik Gereja Santo Yosep
                 A/C : 143 00 04724 934
             </div>
-            <div class="col order-1">
+            <div class="col-sm">
                 <strong> Rekening Pembangunan :</strong>
                 <br>
                 Bank Mandiri Jember
@@ -47,7 +52,8 @@
                 A/C : 7033 6368 5000
             </div>
         </div>
-        <h6 class="text-center mb-4">Jl. R.A. Kartini No.26, Tembaan, Kepatihan, Kec. Kaliwates, Kabupaten Jember, Jawa Timur 68131</h6>
+        <p class="text-center mt-4"><strong>Jl. R.A. Kartini No.26, Tembaan, Kepatihan, Kec. Kaliwates, Kabupaten Jember, Jawa
+            Timur 68131</strong></p>
     </div>
     <div class="p-3 text-center" style="background-color: #603B1B;  color: #F6F3C4;">© 2022. Gereja Katolik Paroki Santo
         Yusup Jember. All Right
