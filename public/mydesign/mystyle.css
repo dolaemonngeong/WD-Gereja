@@ -25,6 +25,7 @@ nav,#footer{
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 18px;
+
 }
 
 .imgJumbotron {
@@ -113,5 +114,8 @@ nav,#footer{
     }
     #footer{
         font-size: 65%;
+    }
+    .foot{
+        padding:10%;
     }
 }

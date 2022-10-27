@@ -1,14 +1,14 @@
 <section class="footer-section" id="footer">
 
-    <div class="container" style="padding-block:50px; font-size: 130%;">
+    <div class="foot container" style="padding-block:50px; font-size: 130%;">
         <br>
         <div class="row">
-            <div class="col-sm-5">
+            <div class="col-sm-4">
                 <div class="row">
 
-                    <div class="col-4"> <img src="images/logo.png" alt="" class="" height="159.18"
+                    <div class="col"> <img src="images/logo.png" alt="" class="" height="159.18"
                             style="margin-right:0px;"></div>
-                    <div class="col-8">
+                    <div class="col">
                         <h2 style="color:#7D4B22; padding-top:35px;  "><strong>
                                 Gereja Katolik Santo Yusup Jember</strong></h2>
                     </div>
@@ -23,7 +23,7 @@
             {{-- <div class="col-sm"></div>
             <div class="col-sm"></div>
             <div class="col-sm"></div> --}}
-            <div class="col-sm" style="margin-top:30px">
+            <div class="col-sm-4" style="margin-top:30px">
                 <strong> Rekening Kolekte :</strong>
                 <br>
                 BCA Jember.
@@ -37,11 +37,12 @@
                 BPGDA Roma Katolik Gereja Santo Yosep
                 A/C : 143 00 04724 934
             </div>
-            <div class="col-sm" style="margin-top:30px">
+            <div class="col-sm-4" style="margin-top:30px">
                 <strong> Rekening Pembangunan :</strong>
                 <br>
                 Bank Mandiri Jember
                 143 00 0559199 3
+                <br>
                 <br>
                 <br>
                 <strong> Rekening Pastoran untuk Intensi Misa :</strong>

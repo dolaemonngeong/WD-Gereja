@@ -13,8 +13,8 @@
     </div> --}}
 <div class="tes fw-semibold" id="tentang">
     <img class="imgJumbotron w-100" src="images/bg.jpeg">
-    <div class="center">
-        <h2 style=" color: #603B1B;">
+    <div class="center container-sm">
+        <h2>
             Gereja Katolik St. Yusup Jember adalah Gereja Katolik yang memiliki 3.600 umat, 38 lingkungan, dan 14
             wilayah
             dengan 1 stasi.
@@ -57,13 +57,13 @@
      row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 d-flex justify-content-center 
      font-size:130%--}}
  
-    <div class="container d-flex justify-content-center" style="margin-bottom:85px; font-size: 130%;"> 
+    <div class="container d-flex justify-content-center" style="margin-bottom:85px; font-size: 150%;"> 
             <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 ">
                  @foreach ($pastors as $pass)
-            <div class="col-6" >
-                <img src="/images/{{ $pass['image']}}" class="d-block rounded-circle" width="350px" height="350px" alt="">
+            <div class="col-sm-6 col">
+                <img src="/images/{{ $pass['image']}}" class="d-block rounded-circle mx-auto " width="290px" height="290px" alt="">
                 <p class="mt-4 text-center">{{ $pass['name'] }}</p>
-                <h6 class="fw-bold text-center">{{ $pass['posisi'] }}</h6>
+                <h4 class="fw-bold text-center" style="color: #603B1B">{{ $pass['posisi'] }}</h4>
             </div>
              @endforeach
         </div>

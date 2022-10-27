@@ -25,7 +25,7 @@ class Pastor extends Model
         [
             'id' => 2,
             'name' => 'Rm. Robertus Andy Priambada, O.Carm',
-            'posisi' => 'Romo Rekan',
+            'posisi' => 'Pastor Rekan',
             'image' => '2.jpeg',
         ]
     ];
