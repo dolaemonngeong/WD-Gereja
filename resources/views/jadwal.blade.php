@@ -5,6 +5,7 @@
 @section('isi')
     <br>
     <div class="">
+    <div class="tiapTable">
         <h1 class="text-center">Jadwal Misa Harian</h1>
         <div class="jadwalTable">
             <table class="table table-borderless">

@@ -26,6 +26,7 @@
         <div class="container-fluid mx-4">
 
             <ul class="navbar-nav ">
+            
                 <a class="navbar-brand" href="/" style="color: #603B1B">
                     <img src="images/logo.png" alt="" height="70">
 

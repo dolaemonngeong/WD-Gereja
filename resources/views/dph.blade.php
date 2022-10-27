@@ -12,5 +12,6 @@
         <img src="images/dph.png" class="strukturDPH img-fluid mx-auto" width="1100">
     </div>
 </div>
+<br>
 {{-- </div> --}}
 @endsection

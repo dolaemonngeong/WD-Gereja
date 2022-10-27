@@ -9,10 +9,6 @@ nav,#footer{
     color: #603B1B;
     background: #F6F3C4;
 }
-.kolomFoto{
-    margin-right: 100px;
-    align-content:;
-}
 
 .tes {
     position: relative;
@@ -25,7 +21,6 @@ nav,#footer{
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 18px;
-
 }
 
 .imgJumbotron {
@@ -41,10 +36,10 @@ nav,#footer{
     margin-right:90px;
 }
 
-/* .kolomFoto{
-    padding-left: 200px;
-    /* padding-right: 100px; 
-} */
+.pastors{
+    margin-bottom:85px; 
+    font-size: 150%;
+}
 
 .jadwalTable{
     margin-left: 250px;
@@ -63,7 +58,7 @@ nav,#footer{
     color: white;
 }
 .kantorTable{
-    margin-bottom: 120px;
+    margin-bottom: 81px;
 }
 
 .tabelBawah{
@@ -73,19 +68,43 @@ nav,#footer{
     /* padding-top: 60px; */
 }
 .susunanDPH{
-    padding-left:30%; 
-    padding-right:30%;
-    padding-bottom: 60px;
+    margin-top: 40px;
+    margin-left:30%; 
+    margin-right:30%;
+    margin-bottom: 60px;
 }
 .strukturDPH{
-    padding-bottom: 40px;
+    margin-bottom: 40px;
+}
+.logoFooter{
+    height:159.18px;
+}
+.sampingLogo{
+    padding-top:30px;
 }
 
 @media screen and (max-width: 800px) {
-    .kolomFoto{
-        padding-left:0px;
-        padding-left:0px;
-        margin-right: 0;
+    h2{
+        font-size:medium;
+        margin-left:1rem;
+        margin-right:1rem;
+    }
+    .center {
+        position: absolute;
+        margin-top: -90%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        /* font-size: 9px; */
+    }
+
+    .visiMisi{
+        margin-left:1rem;
+        font-size: 90%;
+        margin-right:1rem;
+    }
+
+    .pastors{
+        font-size:90%;
     }
 
     .jadwalTable{
@@ -94,6 +113,11 @@ nav,#footer{
         margin-right: 10px;
         font-size: small;
     }
+
+    .tiapTable{
+        padding-top: 20px;
+    }
+
     .jam{
         width:25%;
     }
@@ -106,16 +130,25 @@ nav,#footer{
     }
     .strukturDPH{
         width:300px;
+        margin-bottom: 20px;
     }
     .susunanDPH{
-        padding-left:10%; 
-        padding-right:10%;
-        padding-bottom:30px;
+        margin-top: 20px;
+        margin-left:10%; 
+        margin-right:10%;
+        margin-bottom:30px;
     }
-    #footer{
-        font-size: 65%;
+    .textFooter{
+        font-size: small;
     }
     .foot{
         padding:10%;
+    }
+    .logoFooter{
+        height:104.18px;
+    }
+    .sampingLogo{
+        padding-top: 33px;
+        font-size: 76%;
     }
 }
