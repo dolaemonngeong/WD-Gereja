@@ -9,6 +9,10 @@ nav,#footer{
     color: #603B1B;
     background: #F6F3C4;
 }
+.kolomFoto{
+    margin-right: 100px;
+    align-content:;
+}
 
 .tes {
     position: relative;
@@ -80,6 +84,7 @@ nav,#footer{
     .kolomFoto{
         padding-left:0px;
         padding-left:0px;
+        margin-right: 0;
     }
 
     .jadwalTable{
