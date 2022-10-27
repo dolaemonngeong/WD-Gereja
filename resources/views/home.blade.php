@@ -59,16 +59,16 @@
 
     <div class="container d-flex justify-content-center" style="margin-bottom:85px; font-size: 130%;">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 ">
+           
+            @foreach ($pastors as $pass)
             <div class="col-6" >
-                <img src="images/1.jpeg" class="d-block rounded-circle" width="350px" height="350px" alt="">
-                <p class="mt-4">Rm. Yoseph Utus, O.Carm</p>
-                <h6 class="fw-bold" style="color:#603B1B">Pastor Kepala Paroki</h6>
+                <img src="/images/{{ $pass['image']}}" class="d-block rounded-circle" width="350px" height="350px" alt="">
+                <p class="mt-4">{{ $pass['name'] }}</p>
+                <h6 class="fw-bold" style="color:#603B1B">{{ $pass['posisi'] }}</h6>
             </div>
-            <div class="col-6">
-                <img src="images/2.jpeg" class="d-block rounded-circle" width="350px" height="350px" alt="">
-                <p class="mt-4">Romo Robertus Andy Priambada, O.Carm</p>
-                <h6 class="fw-bold" style="color:#603B1B">Romo Rekan</h6>
-            </div>
+
+               
+            @endforeach
         </div>
     </div>
 </div>
