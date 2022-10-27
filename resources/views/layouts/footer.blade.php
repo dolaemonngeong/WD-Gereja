@@ -37,12 +37,11 @@
                 BPGDA Roma Katolik Gereja Santo Yosep
                 A/C : 143 00 04724 934
             </div>
-            <div class="col-sm">
+            <div class="col-sm" style="margin-top:30px">
                 <strong> Rekening Pembangunan :</strong>
                 <br>
                 Bank Mandiri Jember
                 143 00 0559199 3
-                <br>
                 <br>
                 <br>
                 <strong> Rekening Pastoran untuk Intensi Misa :</strong>
@@ -52,8 +51,9 @@
                 A/C : 7033 6368 5000
             </div>
         </div>
-        <p class="text-center mt-4"><strong>Jl. R.A. Kartini No.26, Tembaan, Kepatihan, Kec. Kaliwates, Kabupaten Jember, Jawa
-            Timur 68131</strong></p>
+        <p class="text-center mt-4"><strong>Jl. R.A. Kartini No.26, Tembaan, Kepatihan, Kec. Kaliwates, Kabupaten
+                Jember, Jawa
+                Timur 68131</strong></p>
     </div>
     <div class="p-3 text-center" style="background-color: #603B1B;  color: #F6F3C4;">© 2022. Gereja Katolik Paroki Santo
         Yusup Jember. All Right

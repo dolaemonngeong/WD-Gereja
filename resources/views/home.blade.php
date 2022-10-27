@@ -64,7 +64,7 @@
             <div class="col-6" >
                 <img src="/images/{{ $pass['image']}}" class="d-block rounded-circle" width="350px" height="350px" alt="">
                 <p class="mt-4">{{ $pass['name'] }}</p>
-                <h6 class="fw-bold" style="color:#603B1B">{{ $pass['posisi'] }}</h6>
+                <h6 class="fw-bold">{{ $pass['posisi'] }}</h6>
             </div>
 
                
