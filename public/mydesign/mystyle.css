@@ -83,6 +83,7 @@ nav,#footer{
     padding-top:30px;
 }
 
+
 @media screen and (max-width: 800px) {
     h2{
         font-size:medium;
@@ -151,4 +152,5 @@ nav,#footer{
         padding-top: 33px;
         font-size: 76%;
     }
+ 
 }

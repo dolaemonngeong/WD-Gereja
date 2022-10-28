@@ -26,7 +26,7 @@
         <div class="container-fluid mx-4">
 
             <ul class="navbar-nav ">
-            
+
                 <a class="navbar-brand" href="/" style="color: #603B1B">
                     <img src="images/logo.png" alt="" height="70">
 
@@ -43,44 +43,43 @@
 
             </ul>
 
-            <br>
 
 
-
-            {{-- d-flex justify-content-end --}}
             <div class="justify-content-end">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon">
                     </span>
                 </button>
-          
-            <div class="collapse navbar-collapse " id="navbarNav">
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
 
-                <ul class="navbar-nav ">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="/"
+                                style="color: #603B1B">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/#tentang" style="color: #603B1B">Tentang</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/dph" style="color: #603B1B">DPH</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/jadwal" style="color: #603B1B">Jadwal</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/#location" style="color: #603B1B">Lokasi</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#footer" style="color: #603B1B">Kontak</a>
+                        </li>
 
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="/" style="color: #603B1B">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/#tentang" style="color: #603B1B">Tentang</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/dph" style="color: #603B1B">DPH</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/jadwal" style="color: #603B1B">Jadwal</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/#location" style="color: #603B1B">Lokasi</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#footer" style="color: #603B1B">Kontak</a>
-                    </li>
+                    </ul>
 
-                </ul>
+
+                </div>
             </div>
-            </div>
+
         </div>
     </nav>
 
