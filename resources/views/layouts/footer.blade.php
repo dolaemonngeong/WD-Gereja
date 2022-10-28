@@ -9,14 +9,36 @@
                     </div>
 
                 </div>
+                <div class="row">
 
-                <p class="mt-4 textFooter"><img src="images/phone.png" height="20" alt=""> ( 0331 ) 486 478
-                </p>
+                    <div class="d-lg-none">
+                        <p class="mt-4 textFooter" style="font-size: 50%"><img src="images/phone.png" height="20" alt=""> ( 0331 )
+                            486
+                            478
+                        </p>
+                        <p class="mt-4 textFooter" style="font-size: 50%"><img src="images/mail.png" height="20"
+                                alt="">
+                            styusupjember@gmail.com</p>
+                        <p class="mt-4 textFooter" style="font-size: 50%"><img src="images/youtube.png" height="20" alt=""> Santo
+                            Yusup
+                        </p>
+                    </div>
+                    <div class="d-none d-lg-block">
+                        <p class="mt-4 textFooter"><img src="images/phone.png" height="20" alt=""> ( 0331 )
+                            486
+                            478
+                        </p>
+                        <p class="mt-4 textFooter"><img src="images/mail.png" height="20" alt="">
+                            styusupjember@gmail.com</p>
+                        <p class="mt-4 textFooter"><img src="images/youtube.png" height="20" alt=""> Santo
+                            Yusup
+                        </p>
+                    </div>
 
-                <p class="mt-4 textFooter"><img src="images/mail.png" height="20" alt="">
-                    styusupjember@gmail.com</p>
 
-                <p class="mt-4 textFooter"><img src="images/youtube.png" height="20" alt=""> Santo Yusup</p>
+
+                </div>
+
             </div>
 
             <div class="col-sm-4 textFooter">

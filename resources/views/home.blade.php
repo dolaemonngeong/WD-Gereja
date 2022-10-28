@@ -39,11 +39,11 @@
             DAN MASYARAKAT.</p>
 
         <h1 class="fw-bolder display-3" style="margin-top:85px; margin-bottom:25px;">Pastor Kami</h1>
-        <div class="pastors container d-flex justify-content-center" style="">
+        <div class="pastors container-fluid d-flex justify-content-center" style="">
             <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 ">
                 @foreach ($pastors as $pass)
                     <div class="col-sm-6 col">
-                        <img src="/images/{{ $pass['image'] }}" class="d-block rounded-circle mx-auto " width="290px"
+                        <img src="/images/{{ $pass['image'] }}" class="d-block rounded-circle mx-auto" width="290px"
                             height="290px" alt="">
                         <p class="mt-4 text-center">{{ $pass['name'] }}</p>
                         <p class="fw-bold text-center" style="color: #603B1B">{{ $pass['posisi'] }}</p>
