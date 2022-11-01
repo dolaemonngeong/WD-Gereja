@@ -25,19 +25,20 @@
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid mx-4">
 
-            <ul class="navbar-nav ">
-
+            <ul class="navbar-nav" >
+                <li class="nav-item" >
                 <a class="navbar-brand" href="/" style="color: #603B1B">
-                    <img src="images/logo.png" alt="" height="70">
+                    {{-- <img src="images/logo.png" alt="" height="70"> --}}
+                    <img src="images/logo1.png" alt="" height="70">
 
                 </a>
                 <li class="nav-item">
                     <a class="nav-link" href="/" style="color: #603B1B">
-                        Gereja Katolik
+                        {{-- Gereja Katolik
                         <br>
                         Santo Yusup
                         <br>
-                        Jember
+                        Jember --}}
                     </a>
                 </li>
 
