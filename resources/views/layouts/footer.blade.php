@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="row">
-                    <div class="col"> <img src="images/logo1.png" alt="" class="d-block mx-auto img-fluid">
+                    <div class="col"> <img src="images/logo2.png" alt="" class="d-block mx-auto img-fluid">
                     </div>
 
                 </div>

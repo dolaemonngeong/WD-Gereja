@@ -33,13 +33,13 @@
 
                 </a>
                 <li class="nav-item">
-                    <a class="nav-link" href="/" style="color: #603B1B">
+                    {{-- <a class="nav-link" href="/" style="color: #603B1B">
                         {{-- Gereja Katolik
                         <br>
                         Santo Yusup
                         <br>
-                        Jember --}}
-                    </a>
+                        Jember 
+                    </a> --}}
                 </li>
 
             </ul>
