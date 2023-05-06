@@ -12,27 +12,68 @@
                 <div class="row">
 
                     <div class="d-lg-none">
-                        <p class="mt-4 textFooter" style="font-size: 50%"><img src="images/phone.png" height="20" alt=""> ( 0331 )
-                            486
-                            478
-                        </p>
-                        <p class="mt-4 textFooter" style="font-size: 50%"><img src="images/mail.png" height="20"
-                                alt="">
-                            styusupjember@gmail.com</p>
-                        <p class="mt-4 textFooter" style="font-size: 50%"><img src="images/youtube.png" height="20" alt=""> Santo
-                            Yusup
-                        </p>
+                        <a href="tel:(0331)485478" target="_blank" rel="noopener noreferrer">
+                            <p class="mt-4 textFooter" style="font-size: 90%">
+                                <img src="images/phone.png" height="30" alt="">
+                                ( 0331 )
+                                486
+                                478
+                            </p>
+                        </a>
+                        <a href="mailto:styusupjember@gmail.com" target="_blank">
+                            <p class="mt-4 textFooter" style="font-size: 90%">
+                                <img src="images/mail.png" height="30" alt="">
+                                styusupjember@gmail.com
+                            </p>
+                        </a>
+                        <a href="https://www.youtube.com/@SantoYusup/featured" target="_blank">
+                            <p class="mt-4 textFooter" style="font-size: 90%">
+                                <img src="images/youtube.png" height="30" alt="">
+                                Santo
+                                Yusup
+                            </p>
+                        </a>
+
+                        <a href="https://www.instagram.com/santoyusupjember/" target="_blank">
+                            <p class="mt-4 textFooter" style="font-size: 90%">
+                                <img src="images/instagram.png" height="30" alt="">
+                                santoyusupjember
+                            </p>
+                        </a>
                     </div>
+
                     <div class="d-none d-lg-block">
-                        <p class="mt-4 textFooter"><img src="images/phone.png" height="20" alt=""> ( 0331 )
-                            486
-                            478
-                        </p>
-                        <p class="mt-4 textFooter"><img src="images/mail.png" height="20" alt="">
-                            styusupjember@gmail.com</p>
-                        <p class="mt-4 textFooter"><img src="images/youtube.png" height="20" alt=""> Santo
-                            Yusup
-                        </p>
+                        <a href="tel:(0331)485478" target="_blank" rel="noopener noreferrer">
+                            <p class="mt-4 textFooter">
+                                <img src="images/phone.png" height="30" alt="">
+                                ( 0331 )
+                                486
+                                478
+                            </p>
+                        </a>
+
+                        <a href="mailto:styusupjember@gmail.com" target="_blank">
+                            <p class="mt-4 textFooter">
+                                <img src="images/mail.png" height="30" alt="">
+                                styusupjember@gmail.com
+                            </p>
+                        </a>
+
+                        <a href="https://www.youtube.com/@SantoYusup/featured" target="_blank">
+                            <p class="mt-4 textFooter">
+                                <img src="images/youtube.png" height="30" alt="">
+                                Santo
+                                Yusup
+                            </p>
+                        </a>
+
+                        <a href="https://www.instagram.com/santoyusupjember/" target="_blank">
+                            <p class="mt-4 textFooter" style="font-size: 90%">
+                                <img src="images/instagram.png" height="30" alt="">
+                                santoyusupjember
+                            </p>
+                        </a>
+
                     </div>
 
 
@@ -44,23 +85,28 @@
             <div class="col-sm-4 textFooter">
                 <strong> Rekening Kolekte :</strong>
                 <br>
-                BCA Jember.
-                BPGDA RK Gereja Santo Yosef
-                A/C : 024 852 1000
-                <br>
-                <br>
-                <strong>Rekening Sumbangan untuk Paroki :</strong>
-                <br>
                 Bank Mandiri Jember.
                 BPGDA Roma Katolik Gereja Santo Yosep
                 A/C : 143 00 04724 934
+
+                <br>
+                <br>
+                {{-- <strong>Rekening Sumbangan untuk Paroki :</strong>
+                <br>
+                Bank Mandiri Jember.
+                BPGDA Roma Katolik Gereja Santo Yosep
+                A/C : 143 00 04724 934 --}}
             </div>
             <div class="col-sm-4 textFooter">
-                <strong> Rekening Pembangunan :</strong>
+                <strong> Rekening Pembangunan Aula Paroki :</strong>
                 <br>
-                Bank Mandiri Jember
-                143 00 0559199 3
+                - BCA Jember.
+                BPGDA RK Gereja Santo Yosef
+                A/C : 024 852 1000
                 <br>
+                - Bank Mandiri Jember
+                BPGDA Roma Katolik Gereja Santo Yosep
+                A/C 143 00 0559 1993
                 <br>
                 <br>
                 <strong> Rekening Pastoran untuk Intensi Misa :</strong>
@@ -80,3 +126,28 @@
         Yusup Jember. All Right
         Reserved.</div>
 </section>
+
+<style>
+/* unvisited link */
+a:link {
+    color: #603B1B;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #603B1B;
+    text-decoration: none;
+}
+
+/* mouse over link & selected link*/
+a:hover, active{
+    color: #7D4B22;
+    /* text-decoration: underline; */
+    font-weight: bold;
+}
+
+/* selected link */
+a:active {
+    color: #7D4B22;
+</style>

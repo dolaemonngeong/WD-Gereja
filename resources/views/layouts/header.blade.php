@@ -17,7 +17,9 @@
     <link rel="stylesheet" type="text/css" href="mydesign/mystyle.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
     </style>
+
 </head>
 
 <body>
@@ -25,13 +27,13 @@
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid mx-4">
 
-            <ul class="navbar-nav" >
-                <li class="nav-item" >
-                <a class="navbar-brand" href="/" style="color: #603B1B">
-                    {{-- <img src="images/logo.png" alt="" height="70"> --}}
-                    <img src="images/logo1.png" alt="" height="70">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="navbar-brand" href="/" style="color: #603B1B">
+                        {{-- <img src="images/logo.png" alt="" height="70"> --}}
+                        <img src="images/logo1.png" alt="" height="70">
 
-                </a>
+                    </a>
                 <li class="nav-item">
                     {{-- <a class="nav-link" href="/" style="color: #603B1B">
                         {{-- Gereja Katolik
@@ -44,48 +46,47 @@
 
             </ul>
 
- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon">
-                    </span>
-                </button>
-
-         
-               
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-
-                       
-
-                    </ul>
-                    
-                    <ul class="navbar-nav mb-2  mb-lg-0">
-
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/"
-                                style="color: #603B1B">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/#tentang" style="color: #603B1B">Tentang</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/dph" style="color: #603B1B">DPH</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/jadwal" style="color: #603B1B">Jadwal</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/#location" style="color: #603B1B">Lokasi</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#footer" style="color: #603B1B">Kontak</a>
-                        </li>
-
-                    </ul>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">
+                </span>
+            </button>
 
 
-                </div>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+
+
+                </ul>
+
+                <ul class="navbar-nav mb-2  mb-lg-0">
+
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/" style="color: #603B1B">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#tentang" style="color: #603B1B">Tentang</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/dph" style="color: #603B1B">DPH</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/jadwal" style="color: #603B1B">Jadwal</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#location" style="color: #603B1B">Lokasi</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#footer" style="color: #603B1B">Kontak</a>
+                    </li>
+
+                </ul>
+
+
             </div>
+        </div>
 
         </div>
     </nav>

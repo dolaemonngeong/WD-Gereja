@@ -24,9 +24,9 @@ class Pastor extends Model
         ],
         [
             'id' => 2,
-            'name' => 'Rm. Robertus Andy Priambada, O.Carm',
+            'name' => 'Rm. Yohanes Adrianus Muga, O.Carm',
             'posisi' => 'Pastor Rekan',
-            'image' => '2.jpeg',
+            'image' => '2.jpg',
         ]
     ];
 
