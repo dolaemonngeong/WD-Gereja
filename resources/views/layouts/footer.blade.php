@@ -83,10 +83,14 @@
             </div>
 
             <div class="col-sm-4 textFooter">
-                <strong> Rekening Kolekte :</strong>
+                <ul>
+                    <li>
+                        <strong> Rekening Kolekte :</strong>
                 <br>
                 Bank Mandiri Jember.
-                BPGDA Roma Katolik Gereja Santo Yosep
+                <br>
+                <strong>BPGDA Roma Katolik Gereja Santo Yosep</strong>
+                <br>
                 A/C : 143 00 04724 934
 
                 <br>
@@ -96,26 +100,44 @@
                 Bank Mandiri Jember.
                 BPGDA Roma Katolik Gereja Santo Yosep
                 A/C : 143 00 04724 934 --}}
+                    </li>
+                </ul>
+
             </div>
+            
             <div class="col-sm-4 textFooter">
-                <strong> Rekening Pembangunan Aula Paroki :</strong>
+                <ul>
+                    <li>
+                        <strong> Rekening Pembangunan Aula Paroki :</strong>
                 <br>
                 - BCA Jember.
-                BPGDA RK Gereja Santo Yosef
+                <br>
+                <strong>BPGDA RK Gereja Santo Yosef</strong>
+                <br>
                 A/C : 024 852 1000
                 <br>
                 - Bank Mandiri Jember
-                BPGDA Roma Katolik Gereja Santo Yosep
+                <br>
+                <strong>BPGDA Roma Katolik Gereja Santo Yosep</strong>
+                <br>
                 A/C 143 00 0559 1993
-                <br>
-                <br>
-                <strong> Rekening Pastoran untuk Intensi Misa :</strong>
+                    </li>
+                    <br>
+                    <br>
+                    <li>
+                        <strong> Rekening Pastoran untuk Intensi Misa :</strong>
                 <br>
                 Bank CIMB Niaga Jember
-                Herman Yoseph Suyatna, Yohanes Suparno
+                <strong>Herman Yoseph Suyatna, Yohanes Suparno</strong>
                 A/C : 7033 6368 5000
+                    </li>
+                </ul>
+                
+                
+
             </div>
         </div>
+        
         <p class="text-center mt-4 textFooter"><strong>Jl. R.A. Kartini No.26, Tembaan, Kepatihan, Kec. Kaliwates,
                 Kabupaten
                 Jember, Jawa
@@ -128,7 +150,7 @@
 </section>
 
 <style>
-/* unvisited link */
+    /* unvisited link */
 a:link {
     color: #603B1B;
     text-decoration: none;
@@ -140,14 +162,18 @@ a:visited {
     text-decoration: none;
 }
 
-/* mouse over link & selected link*/
-a:hover, active{
+/* mouse over link & selected llink */
+a:hover {
     color: #7D4B22;
     /* text-decoration: underline; */
     font-weight: bold;
 }
 
-/* selected link */
+/*  selected llink */
 a:active {
     color: #7D4B22;
+    /* text-decoration: underline; */
+    font-weight: bold;
+}
+
 </style>
