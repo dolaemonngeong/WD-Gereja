@@ -76,17 +76,12 @@
 
                     </div>
 
-
-
                 </div>
 
             </div>
 
             <div class="col-sm-4 textFooter">
-                <ul>
-                    <li>
-                        <strong> Rekening Kolekte :</strong>
-                <br>
+                <h3><strong> Rekening Kolekte :</strong></h3>
                 Bank Mandiri Jember.
                 <br>
                 <strong>BPGDA Roma Katolik Gereja Santo Yosep</strong>
@@ -100,16 +95,11 @@
                 Bank Mandiri Jember.
                 BPGDA Roma Katolik Gereja Santo Yosep
                 A/C : 143 00 04724 934 --}}
-                    </li>
-                </ul>
 
             </div>
-            
+
             <div class="col-sm-4 textFooter">
-                <ul>
-                    <li>
-                        <strong> Rekening Pembangunan Aula Paroki :</strong>
-                <br>
+                <h3><strong> Rekening Pembangunan Aula Paroki :</strong></h3>
                 - BCA Jember.
                 <br>
                 <strong>BPGDA RK Gereja Santo Yosef</strong>
@@ -120,24 +110,19 @@
                 <br>
                 <strong>BPGDA Roma Katolik Gereja Santo Yosep</strong>
                 <br>
-                A/C 143 00 0559 1993
-                    </li>
-                    <br>
-                    <br>
-                    <li>
-                        <strong> Rekening Pastoran untuk Intensi Misa :</strong>
+                A/C : 143 00 0559 1993
                 <br>
+                <br>
+                <h3><strong> Rekening Pastoran untuk Intensi Misa :</strong></h3>
                 Bank CIMB Niaga Jember
                 <strong>Herman Yoseph Suyatna, Yohanes Suparno</strong>
+                <br>
                 A/C : 7033 6368 5000
-                    </li>
-                </ul>
-                
-                
 
             </div>
         </div>
         
+
         <p class="text-center mt-4 textFooter"><strong>Jl. R.A. Kartini No.26, Tembaan, Kepatihan, Kec. Kaliwates,
                 Kabupaten
                 Jember, Jawa
@@ -151,29 +136,29 @@
 
 <style>
     /* unvisited link */
-a:link {
-    color: #603B1B;
-    text-decoration: none;
-}
+    a:link {
+        color: #603B1B;
+        text-decoration: none;
+    }
 
-/* visited link */
-a:visited {
-    color: #603B1B;
-    text-decoration: none;
-}
+    /* visited link */
+    a:visited {
+        color: #603B1B;
+        text-decoration: none;
+    }
 
-/* mouse over link & selected llink */
-a:hover {
-    color: #7D4B22;
-    /* text-decoration: underline; */
-    font-weight: bold;
-}
+    /* mouse over link & selected llink */
+    a:hover {
+        color: #7D4B22;
+        /* text-decoration: underline; */
+        font-weight: bold;
+    }
 
-/*  selected llink */
-a:active {
-    color: #7D4B22;
-    /* text-decoration: underline; */
-    font-weight: bold;
-}
+    /*  selected llink */
+    a:active {
+        color: #7D4B22;
+        /* text-decoration: underline; */
+        font-weight: bold;
+    }
 
 </style>
